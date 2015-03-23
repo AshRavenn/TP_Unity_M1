@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 66f69d7532f141145bc626f34a9f6a19
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bec
+    100002: Corps
+    100004: Crete
+    100006: //RootNode
+    100008: Cylindre001
+    100010: Cylindre002
+    100012: Jambedroite
+    100014: Jambegauche
+    100016: Oeildroit
+    100018: Oeilgauche
+    100020: osjambedroite01
+    100022: osjambedroite02
+    100024: osjambedroite03
+    100026: osjambegauche01
+    100028: osjambegauche02
+    100030: osjambegauche03
+    100032: Queue
+    100034: Roots
+    400000: Bec
+    400002: Corps
+    400004: Crete
+    400006: //RootNode
+    400008: Cylindre001
+    400010: Cylindre002
+    400012: Jambedroite
+    400014: Jambegauche
+    400016: Oeildroit
+    400018: Oeilgauche
+    400020: osjambedroite01
+    400022: osjambedroite02
+    400024: osjambedroite03
+    400026: osjambegauche01
+    400028: osjambegauche02
+    400030: osjambegauche03
+    400032: Queue
+    400034: Roots
+    2300000: Bec
+    2300002: Crete
+    2300004: Cylindre001
+    2300006: Cylindre002
+    2300008: Oeildroit
+    2300010: Oeilgauche
+    2300012: Queue
+    3300000: Bec
+    3300002: Crete
+    3300004: Cylindre001
+    3300006: Cylindre002
+    3300008: Oeildroit
+    3300010: Oeilgauche
+    3300012: Queue
+    4300000: Corps
+    4300002: Jambedroite
+    4300004: Jambegauche
+    4300006: Oeildroit
+    4300008: Oeilgauche
+    4300010: Bec
+    4300012: Queue
+    4300014: Crete
+    4300016: Cylindre001
+    4300018: Cylindre002
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Corps
+    13700002: Jambedroite
+    13700004: Jambegauche
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bec
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Crete
+        weight: 1
+      - path: Cylindre001
+        weight: 1
+      - path: Cylindre002
+        weight: 1
+      - path: Jambedroite
+        weight: 1
+      - path: Jambegauche
+        weight: 1
+      - path: Oeildroit
+        weight: 1
+      - path: Oeilgauche
+        weight: 1
+      - path: Queue
+        weight: 1
+      - path: Roots
+        weight: 1
+      - path: Roots/osjambedroite01
+        weight: 1
+      - path: Roots/osjambedroite01/osjambedroite02
+        weight: 1
+      - path: Roots/osjambedroite01/osjambedroite02/osjambedroite03
+        weight: 1
+      - path: Roots/osjambegauche01
+        weight: 1
+      - path: Roots/osjambegauche01/osjambegauche02
+        weight: 1
+      - path: Roots/osjambegauche01/osjambegauche02/osjambegauche03
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

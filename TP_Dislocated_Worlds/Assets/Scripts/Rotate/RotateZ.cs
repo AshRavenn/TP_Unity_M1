@@ -11,6 +11,6 @@ public class RotateZ : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		//Rotation de 5 degrés autour de l'axe des Y
-		transform.Rotate (0, 0, 2);
+		transform.Rotate (0, 0, 1);
 	}
 }

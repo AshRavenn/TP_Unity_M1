@@ -11,6 +11,6 @@ public class RotateX : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		//Rotation de 5 degrés autour de l'axe des Y
-		transform.Rotate (2, 0, 0);
+		transform.Rotate (1, 0, 0);
 	}
 }
